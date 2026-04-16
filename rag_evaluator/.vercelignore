@@ -1,0 +1,15 @@
+# Keep serverless bundle smaller (Vercel 250MB uncompressed soft limit)
+.venv
+venv
+env
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+Dockerfile
+.dockerignore

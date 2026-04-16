@@ -1,0 +1,29 @@
+# Git / IDE
+.git
+.gitignore
+.cursor
+*.md
+__pycache__
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv
+venv
+env
+.env
+.env.*
+!.env.example
+
+# Local / OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Tests / build artifacts (add as needed)
+.pytest_cache
+.mypy_cache
+.ruff_cache
+dist
+build
+*.egg-info
