@@ -1,3 +1,4 @@
+
 """
 Vercel WSGI entrypoint.
 
